@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Dina IA - Technical Analysis",
+  "description": "Análise técnica instantânea de gráficos de trading usando IA. Converta capturas de ecrã em relatórios detalhados de tendência, padrões e sinais.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
