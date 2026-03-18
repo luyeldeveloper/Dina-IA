@@ -63,12 +63,12 @@ export const Layout: React.FC<LayoutProps> = ({ children, activeTab, setActiveTa
               </div>
               <p className="text-[10px] text-gray-400 leading-tight">
                 Análise técnica informativa. Não é aconselhamento financeiro nem substitui gestão profissional. 
-                Decisões de investimento são responsabilidade do utilizador. IA algorítmica não garante lucros.
+                Decisões de investimento são responsabilidade do utilizador. 
               </p>
             </div>
           </div>
           <div className="mt-8 pt-8 border-t border-gray-800 text-center text-xs text-gray-500">
-            &copy; 2026 Dina IA / Luyeye A. Bianda. Todos os direitos reservados.
+            &copy; 2026 Dina IA / Luyeye Afonso Bianda. Todos os direitos reservados.
           </div>
         </div>
       </footer>
